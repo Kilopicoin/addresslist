@@ -10,7 +10,7 @@ function App() {
 	  <h1>Kilopi address list</h1>
 
 	   <h2>Team</h2>
-	   <h3>Team member Cem Tosun : 0x49207E9B7948d02e0C5D1088b818f5Ae5C701991</h3>
+	   <h3>Team member Cem Tosun : 0x386393C0A3A05343c4C9f76545f589b44038e22a</h3>
 	   <h3>Team member Eren Bahadır: 0x333Da10cACB66aB90CEc6D58ae660F4E127c1Beb</h3>
 	   <h3>Team member Sadık Emre Alkan: 0xA49E973712f1fC5BFaa61fcEC5327786E46CB42c</h3>
 	   <h3>Team member Han: 0x55Ea2eAA677a2acF4D838a758e11e5cBD408E6a1</h3>
@@ -32,6 +32,7 @@ function App() {
 	   <h3>Migration: 0x4D729e447D2c775FF80f298CC974093ED90020d8</h3>
 	   <h3>Tranquil(Liquidity): 0x994A43610458005feC15280E39624d293B224590</h3>
 	   <h3>Masters of Management(Alexandra): 0x974Eed4Bdd519Ec31aFA4e9495024F76824a6E4a</h3>
+	   <h3>Masters of Management(Tristan): 0x050cf054426b30001a4B5662d7Ce175497EF7E60</h3>
 	   <h3>Pathfinder: 0x64491880c3f18276582e16D989943Aba6c141f04</h3>
 
 	
